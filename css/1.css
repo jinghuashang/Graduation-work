@@ -1,0 +1,63 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	}
+section{
+		height: 100vh;
+	}
+#beijing{
+		width: 1690px;
+		height: 2600px;
+	}
+#g-imga{
+		background-image: url('../img/crete-g85c6a02cc_1920.jpg');
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center center;
+	}
+#g-imgb{
+		background-image: url('../img/mogotes-ga63d9f86f_1920.jpg');
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center center;
+	}
+#g-imgc{
+		background-image: url('../img/vineyard-gac205b79e_1920.jpg');
+		background-attachment: fixed;
+		background-size: cover;
+		background-position: center center;
+	}
+#g-imgd{
+	background-image: url('../img/vineyard-gac205b79e_1920.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center center;
+}
+#yuanshu{
+	width: 1690px;
+	height: 70px;
+	background-color: white;
+	float: left;
+	margin-top: -2600px;
+}
+#yuanshu p{
+	display: block;
+	font-size: 20px;
+	line-height: 70px;
+	margin-left: 40px;
+	float: left;
+}
+#yuanshua{
+	width: 1690px;
+	height: 900px;
+	background-color: white;
+	float: left;
+	margin-top: -1760px;
+}
+#yuanshub{
+	width: 1690px;
+	height: 550px;
+	background-color: white;
+	float: left;
+	margin-top: -200px;
+}
